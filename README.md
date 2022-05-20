@@ -1,4 +1,4 @@
-I love making things that help people or make them smile. My focus as a developer is on JavaScript/React and Ruby/Rails, but I've picked up bits and pieces of other tools along the way. I also maintained my CCNA for years, and while I haven't worked as a sysadmin for many years, I love learning about and understanding all the moving pieces and data of the computers themselves and the TCP/IP (etc.) that ties them all together, apart from code. 
+I love making things that help people or make them smile. My focus as a developer is on JavaScript/React and Ruby/Rails, but I've picked up bits and pieces of other tools along the way. I also maintained my CCNA for years, and while I haven't worked as a sysadmin for a long time, I love learning about and understanding all the moving pieces and data of the computers themselves and the TCP/IP (etc.) that ties them all together, apart from code. 
 
 Proud to work on the Enterprise education team at [Flatiron School](https://flatironschool.com/), where we're helping to educate and empower the next generation of makers and dreamers. 
 
@@ -26,6 +26,7 @@ Proud to work on the Enterprise education team at [Flatiron School](https://flat
   - 💀 (horror movies) *Martyrs (2008)*, *Fear Street*, *Hereditary* 
   - 📺 *Mad Men*, *Handmaid's Tale*, *This is Us*, *Breaking Bad*, RIP *The OA*, RIP Archive *81*
   - 🎮 *League of Legends*, *Disco Elysium*, *Planescape: Torment*, *Pathfinder: Wrath of the Righteous*, *Doom: Eternal*
+- Yes, I am the anti-TL;DR. Why use 20 words when you can use 20,000?
 
 ### :coffee: I'd love to hear from you! :coffee:
 <p align="center">
