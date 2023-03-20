@@ -6,15 +6,15 @@ Proud to work on the Enterprise education team at [Flatiron School](https://flat
 - 🌱 I’m currently learning ThreeJS && GLSL && Blender for myself || Python/Flask for work.
 - 👯 I’m looking to collaborate on projects involving ThreeJS with AR/VR, or Unity/Unreal with AR/VR...
 - 🐉 ... or any project, basically, connecting my skillset to Dungeons & Dragons / Pathfinder 2e. 🧙
-- 📫 The best way to reach me is probably Twitter or LinkedIn...
-- 🤗 ... unless we're already acquainted, in which case it's probably Slack/Discord/Signal!
-  - ☝ Reminder to my amazing students: The best way to reach me is through Piazza. 
+- 📫 The best way to reach me is probably LinkedIn or e-mail...
+- 🤗 ... unless we're already acquainted, in which case it's definitely Slack/Discord/Signal/Steam!
+  - ☝ Reminder to my amazing students: **The best way to reach me is through Piazza.**
 - 😄 Pronouns: he/him/hero
 - ✍️ Short(ish) tech thoughts: [Github Pages blog](https://thompsonplyler.github.io/)
 - 🏘️ Portfolio site: [https://thompsonplyler.com](https://thompsonplyler.com)
 
 ### Bits and Pieces
-- I was a United States Marine. My job was as a network technician. 
+- I was a United States Marine. My MOS was computer technician, where I went from from desktop support to network support to information assurance/ cybersecurity. Semper Fi.
 - I went to NYU for film school. I fell into graphics/ VFX/ motion graphics after that, where I worked on the gritty technical part (roto, keying, titles/subtitles, credits, painting/wire/object removal) of VFX on dozens of TV shows, commercials, and movies.
 - 💪 I was a strength and fitness coach for five years. 
   - The best book to start with for serious training is Mark Verstegen's *Core Performance.*
