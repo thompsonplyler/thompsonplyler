@@ -32,5 +32,3 @@ Proud to work on the Enterprise education team at [Flatiron School](https://flat
 <p align="center">
 	<a href="https://github.com/thompsonplyler"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/thompson-plyler"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://twitter.com/thompsonplyler"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
-</p>
