@@ -15,7 +15,7 @@ Proud to work on the Enterprise education team at [Flatiron School](https://flat
 
 ### Bits and Pieces
 - I was a United States Marine. My MOS was computer technician, where I went from from desktop support to network support to information assurance/ cybersecurity. Semper Fi.
-- I went to NYU for film school. I fell into graphics/ VFX/ motion graphics after that, where I worked on the gritty technical part (roto, keying, titles/subtitles, credits, painting/wire/object removal) of VFX on dozens of TV shows, commercials, and movies.
+- I went to NYU for film school. I fell into graphics/ VFX/ motion graphics after that, where I worked on the gritty technical part (roto, keying, titles/subtitles, credits, painting/wire/object removal) of VFX on dozens of TV shows, commercials, and movies. If you can see my work, I didn't do a good job. 
 - 💪 I was a strength and fitness coach for five years. 
   - The best book to start with for serious training is Mark Verstegen's *Core Performance.*
   - My favorite recommendation for best overall fitness text for optimal physical performance (i.e. not merely weight loss or getting swole) is Mark Verstegen's *Every Day is Game Day*. 
