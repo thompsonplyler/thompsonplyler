@@ -19,7 +19,7 @@ I love making things that help people or make them smile. My focus as a develope
   - 🎬 (only since 2010) *Arrival*, *Cloud Atlas*, *Parasite*
   - 💀 (horror movies) *Martyrs (2008)*, *Fear Street*, *Hereditary* 
   - 📺 *Mad Men*, *Handmaid's Tale*, *This is Us*, *Breaking Bad*, RIP *The OA*, RIP Archive *81*
-  - 🎮 *League of Legends*, *Disco Elysium*, *Planescape: Torment*, *Pathfinder: Wrath of the Righteous*, *Doom: Eternal*
+  - 🎮 *League of Legends*, *Disco Elysium*, *Planescape: Torment*, *Pathfinder: Wrath of the Righteous*, *Doom: Eternal*, *Baldur's Gate 3*
 - Yes, I am the anti-TL;DR. Why use 20 words when you can use 20,000?
 
 ### :coffee: I'd love to hear from you! :coffee:
