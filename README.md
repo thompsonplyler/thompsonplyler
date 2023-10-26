@@ -1,16 +1,10 @@
-I love making things that help people or make them smile. My focus as a developer is on JavaScript/React and Ruby/Rails, but I've picked up bits and pieces of other tools along the way. I also maintained my CCNA for years, and while I haven't worked as a sysadmin for a long time, I love learning about and understanding all the moving pieces and data of the computers themselves and the TCP/IP (etc.) that ties them all together, apart from code. 
+I love making things that help people or make them smile. My focus as a developer is on JavaScript/React, Python/Flask, Ruby/Rails, but I've picked up bits and pieces of other tools along the way. I love making bits and pieces connecting Blender, ThreeJS, and other tools for display on the web. I also maintained my CCNA for years, and while I haven't worked as a sysadmin for a long time, I love learning about and understanding all the moving pieces and data of the computers themselves and the TCP/IP (etc.) that ties them all together, apart from code. 
 
-Proud to work on the Enterprise education team at [Flatiron School](https://flatironschool.com/), where we're helping to educate and empower the next generation of makers and dreamers. 
-
-
-- 🌱 I’m currently learning ThreeJS && GLSL && Blender for myself || Python/Flask for work.
 - 👯 I’m looking to collaborate on projects involving ThreeJS with AR/VR, or Unity/Unreal with AR/VR...
 - 🐉 ... or any project, basically, connecting my skillset to Dungeons & Dragons / Pathfinder 2e. 🧙
 - 📫 The best way to reach me is probably LinkedIn or e-mail...
-- 🤗 ... unless we're already acquainted, in which case it's definitely Slack/Discord/Signal/Steam!
-  - ☝ Reminder to my amazing students: **The best way to reach me is through Piazza.**
+- 🤗 ... unless we're already acquainted, in which case it's definitely Discord/Signal/Steam!
 - 😄 Pronouns: he/him/hero
-- ✍️ Short(ish) tech thoughts: [Github Pages blog](https://thompsonplyler.github.io/)
 - 🏘️ Portfolio site: [https://thompsonplyler.com](https://thompsonplyler.com)
 
 ### Bits and Pieces
