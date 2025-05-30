@@ -10,7 +10,7 @@ I love making things that help people or make them smile. My focus as a develope
 
 ### Bits and Pieces
 - I was a United States Marine. My MOS was computer technician, where I went from from desktop support to network support to information assurance/ cybersecurity. Semper Fi.
-- I went to NYU for film school. I fell into graphics/ VFX/ motion graphics after that, where I worked on the gritty technical part (roto, keying, titles/subtitles, credits, painting/wire/object removal) of VFX on dozens of TV shows, commercials, and movies. If you can see my work, I didn't do a good job.
+- I went to NYU for film school. I fell into graphics/ VFX/ motion graphics after that, where I worked on the gritty technical part (roto, keying, titles/subtitles, credits, painting/wire/object removal) of VFX on dozens of TV shows, commercials, and movies. If you can see my work, I didn't do a good job. I'm ELATED that AI is vaporizing all the tedious parts in that industry. No one LIKES to rotoscope, y'all.
 - I was a semi-professional stand-up comic. Paid for beers and dates, but never paid my rent. But I'm only TRULY comfortable with a microphone in my hand.
 - 💪 I was a strength and fitness coach for five years. 
   - The best book to start with for serious training is Mark Verstegen's *Core Performance.*
