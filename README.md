@@ -5,7 +5,7 @@ I love making things that help people or make them smile. My focus as a develope
 - 📫 The best way to reach me is probably LinkedIn or e-mail...
 - 🤗 ... unless we're already acquainted, in which case it's definitely Discord/Signal/Steam!
 - 😄 Pronouns: he/him/hero
-- 🏘️ Portfolio site: [https://thompsonplyler.com](https://thompsonplyler.com)
+- 🏘️ Portfolio site: [https://thompsoncanhelp.com](https://thompsoncanhelp.com)
 
 ### Bits and Pieces
 - I was a United States Marine. My MOS was computer technician, where I went from from desktop support to network support to information assurance/ cybersecurity. Semper Fi.
